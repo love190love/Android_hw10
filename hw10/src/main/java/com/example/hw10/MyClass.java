@@ -16,7 +16,7 @@ public class MyClass {
             c-=32;
             System.out.println("input"+(char)(c+32)+"change:"+c);
         }else{
-            System.out.println("error！！");
+            System.out.println("這並非英文字母！");
         }
     }
 }
